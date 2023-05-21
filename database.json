@@ -57,14 +57,14 @@
       "isAdmin": true,
       "id": 6,
       "current-password": "",
-      "bio": "Software developer from Memphis, TN. ",
-      "profilePic": "https://pbs.twimg.com/profile_images/1622455803750883329/u2KKVq3V_400x400.jpg"
+      "bio": "Software developer from Nashville, TN.",
+      "profilePic": "https://maninblackdev.files.wordpress.com/2023/04/img_5690.jpeg?w=311"
     },
     {
       "email": "hisemail@gmail.com",
       "firstName": "Chad",
-      "lastName": "Crouchmeister",
-      "isAdmin": false,
+      "lastName": "Crouch",
+      "isAdmin": true,
       "image": "",
       "bio": "",
       "current-password": "password",
@@ -186,6 +186,13 @@
       "name": "Sci-Fi Fans",
       "purpose": "To read through influential works of science fiction.",
       "id": 6
+    },
+    {
+      "active": true,
+      "name": "Towering Readers",
+      "bookId": 8,
+      "purpose": "To read great books.",
+      "id": 7
     }
   ],
   "clubMembers": [
@@ -220,19 +227,9 @@
       "clubId": 1
     },
     {
-      "id": 9,
-      "memberId": 2,
-      "clubId": 5
-    },
-    {
       "memberId": 6,
       "clubId": 2,
       "id": 11
-    },
-    {
-      "memberId": 6,
-      "clubId": 3,
-      "id": 12
     },
     {
       "memberId": 1,
@@ -243,11 +240,6 @@
       "memberId": 1,
       "clubId": 5,
       "id": 18
-    },
-    {
-      "memberId": 7,
-      "clubId": 4,
-      "id": 21
     },
     {
       "memberId": 7,
@@ -265,14 +257,19 @@
       "id": 24
     },
     {
-      "memberId": 2,
-      "clubId": 6,
-      "id": 25
-    },
-    {
       "memberId": 6,
       "clubId": 4,
       "id": 26
+    },
+    {
+      "memberId": 5,
+      "clubId": 7,
+      "id": 28
+    },
+    {
+      "memberId": 1,
+      "clubId": 7,
+      "id": 29
     }
   ],
   "bookChapters": [
@@ -1568,15 +1565,6 @@
       "id": 4
     },
     {
-      "bookChapterId": 12,
-      "bookId": 4,
-      "clubId": 4,
-      "memberId": 6,
-      "comment": "Here is a test comment",
-      "commentDate": "Thu Mar 16 2023 11:08:39 GMT-0500 (Central Daylight Time)",
-      "id": 6
-    },
-    {
       "bookChapterId": 2,
       "bookId": 5,
       "clubId": 1,
@@ -1613,15 +1601,6 @@
       "id": 12
     },
     {
-      "comment": "Here is a new comment",
-      "bookChapterId": 12,
-      "bookId": 4,
-      "clubId": 4,
-      "memberId": 6,
-      "commentDate": "Mon Mar 20 2023 13:21:07 GMT-0500 (Central Daylight Time)",
-      "id": 13
-    },
-    {
       "comment": "Here is my comment",
       "bookChapterId": 30,
       "bookId": 2,
@@ -1640,24 +1619,6 @@
       "id": 15
     },
     {
-      "comment": "New comment",
-      "bookChapterId": 12,
-      "bookId": 4,
-      "clubId": 4,
-      "memberId": 6,
-      "commentDate": "Tue Mar 21 2023 09:43:19 GMT-0500 (Central Daylight Time)",
-      "id": 16
-    },
-    {
-      "comment": "Add another comment",
-      "bookChapterId": 12,
-      "bookId": 4,
-      "clubId": 4,
-      "memberId": 6,
-      "commentDate": "Wed Mar 22 2023 13:49:33 GMT-0500 (Central Daylight Time)",
-      "id": 17
-    },
-    {
       "comment": "Yet another comment.",
       "bookChapterId": 12,
       "bookId": 4,
@@ -1665,6 +1626,33 @@
       "memberId": 6,
       "commentDate": "Thu Mar 23 2023 11:03:51 GMT-0500 (Central Daylight Time)",
       "id": 18
+    },
+    {
+      "comment": "Here is a comment from Chad.",
+      "bookChapterId": 12,
+      "bookId": 4,
+      "clubId": 4,
+      "memberId": 7,
+      "commentDate": "Fri Mar 24 2023 14:25:00 GMT-0500 (Central Daylight Time)",
+      "id": 19
+    },
+    {
+      "comment": "A comment from Dion.",
+      "bookChapterId": 12,
+      "bookId": 4,
+      "clubId": 4,
+      "memberId": 1,
+      "commentDate": "Fri Mar 24 2023 14:25:25 GMT-0500 (Central Daylight Time)",
+      "id": 20
+    },
+    {
+      "comment": "Another comment",
+      "bookChapterId": 12,
+      "bookId": 4,
+      "clubId": 4,
+      "memberId": 6,
+      "commentDate": "Tue Apr 04 2023 10:17:26 GMT-0500 (Central Daylight Time)",
+      "id": 21
     }
   ]
 }
