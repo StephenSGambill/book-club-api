@@ -5,9 +5,9 @@
       "firstName": "Dion",
       "lastName": "Stoade",
       "email": "dstoade0@cornell.edu",
-      "isAdmin": false,
+      "isAdmin": true,
       "current-password": "",
-      "bio": "",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida magna ut mauris dignissim, in porta nisl condimentum. Vivamus feugiat eleifend lacus, sed euismod risus rhoncus non. Proin eget sollicitudin diam, non tincidunt tortor. Nullam tempus mi vitae turpis fermentum, ut posuere elit vulputate. Suspendisse potenti. Aenean blandit neque vel ullamcorper elementum.",
       "profilePic": "https://media.licdn.com/dms/image/C4E03AQHLD8Hkt9M0mg/profile-displayphoto-shrink_800_800/0/1648859146775?e=2147483647&v=beta&t=N1ya8C_02ttFH3x8apGu6c5yL3ZR8uZLyEKlVtguxrw"
     },
     {
@@ -15,9 +15,9 @@
       "firstName": "Windy",
       "lastName": "Thorneloe",
       "email": "wthorneloe1@usa.gov",
-      "isAdmin": false,
+      "isAdmin": true,
       "current-password": "",
-      "bio": "",
+      "bio": "Sed varius justo at elit euismod, a bibendum dolor vulputate. Duis ultricies diam nec ex viverra, ut eleifend purus dignissim. Pellentesque eleifend rutrum nunc, sed rutrum risus pellentesque id. Morbi mattis purus vitae purus sollicitudin, a mattis ligula pellentesque. Nam consectetur nibh nec eros malesuada, eu lobortis tellus lacinia.",
       "profilePic": "https://doximity-res.cloudinary.com/images/f_auto,q_auto,t_profile_photo_320x320/nygicuxpvlbyiw5nxjzy/william-thorneloe-md-smyrna-ga.jpg?noindex=true"
     },
     {
@@ -25,9 +25,9 @@
       "firstName": "Hillie",
       "lastName": "Phillpotts",
       "email": "hphillpotts2@rakuten.co.jp",
-      "isAdmin": false,
+      "isAdmin": true,
       "password": "",
-      "bio": "",
+      "bio": "Proin eget sem ac odio lacinia faucibus. Integer in mauris vel lectus cursus condimentum. Etiam a enim nec felis iaculis feugiat. Aliquam eget quam sit amet nulla accumsan auctor. Donec dignissim mauris at eros gravida, nec aliquet justo commodo. Phasellus sit amet metus commodo, pellentesque elit ac, condimentum tortor.",
       "profilePic": "https://i2-prod.mirror.co.uk/incoming/article9640920.ece/ALTERNATES/s615b/PROD-Hollie-and-Chloe.jpg"
     },
     {
@@ -35,9 +35,9 @@
       "firstName": "Helenelizabeth",
       "lastName": "Passfield",
       "email": "hpassfield7@netvibes.com",
-      "isAdmin": false,
+      "isAdmin": true,
       "current-password": "",
-      "bio": "",
+      "bio": "Vestibulum ac magna sit amet erat consectetur porttitor. Suspendisse at tristique nulla. Mauris congue eros in erat dapibus, at dignissim nisi tincidunt. Etiam nec iaculis velit. Nulla pharetra nunc ac magna finibus, a ultricies lacus hendrerit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
       "profilePic": "https://cache.legacy.net/legacy/images/cobrands/pressofatlanticcity/photos/A0030384-1_20210505.jpgx?w=176&h=176&option=3"
     },
     {
@@ -47,7 +47,7 @@
       "email": "fslator8@51.la",
       "isAdmin": true,
       "current-password": "",
-      "bio": "",
+      "bio": "Quisque eget mauris ac lectus aliquet ultrices. Fusce feugiat nunc vel sem luctus commodo. Sed ullamcorper lacus a mauris hendrerit, eu rutrum urna facilisis. In auctor lorem in odio consequat luctus. Nulla facilisi. Morbi vulputate dapibus neque ut pharetra.",
       "profilePic": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/willametteor/franchot_94A6857F-5056-A36A-08D2A4B48AF25B99-94a684055056a36_94a68e3c-5056-a36a-0881b69dcbd099b0.jpg"
     },
     {
@@ -66,7 +66,7 @@
       "lastName": "Crouch",
       "isAdmin": true,
       "image": "",
-      "bio": "",
+      "bio": "Nunc dapibus diam sit amet ligula pharetra, ut tempor felis euismod. Fusce suscipit lorem sed pharetra convallis. Sed efficitur metus id ex suscipit, ut consequat tortor feugiat. Sed sed elementum enim, eu varius lectus. Ut sed iaculis ligula. Vestibulum ac metus vel ipsum venenatis lobortis.",
       "current-password": "password",
       "id": 7,
       "profilePic": "https://pbs.twimg.com/profile_images/1276283282896965632/zSmdD0lI_400x400.jpg"
